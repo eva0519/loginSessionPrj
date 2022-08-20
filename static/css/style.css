@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+#loginBtn {
+    display:inline-block;
+}
+#logoutBtn {
+    background-color: cadetblue;,
+    border-color: cadetblue;
+    display:none;
+}
+#logoutBtn:hover {
+    background-color: darkcyan;
+}
+
+#visit-comment {
+    font-size: 20px;
+    font-weight: bold;
+}
