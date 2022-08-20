@@ -1,4 +1,4 @@
-# Login Session & Sign Up Validation
+# Login Session & signUp validation
 
 #### use tech
 #### mongoDb cloud
